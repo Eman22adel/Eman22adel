@@ -1,4 +1,4 @@
-![image](https://github.com/Eman22adel/Eman22adel/assets/87882944/fd2fbc2a-a452-4341-91fe-f0e36fc3285a)
+
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Eman22adel" target="blank">
 Eman</a></h1>
 <h3 align="center">Embedded Software Engineer</h3>
