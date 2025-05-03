@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Eman22adel" target="blank"> Eman</a></h1>
-<h3 align="center">Embedded Software Engineer</h3>
+<h3 align="center">Front End Developer</h3>
 
 <a target="_blank" align="center">
     <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 🔭 I'm a graduate of Suez Canal University, Computer and Control Department, with a GPA of Very Good.
-- 🌱 I'm interested in the field of embedded.
+- 🌱 I'm interested in the field of frontend development.
 - 🤝 I’m available for freelancing.
 - 📝 You can view my LinkedIn from here. <a href="https://www.linkedin.com/in/eman-adel-42b31121b/" target="blank">LinkedIn</a>
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1nWRFfPPhtsgvHHFs39XmSBelf97YsBkj/view?usp=sharing" target="blank">Resume</a> <br/>
